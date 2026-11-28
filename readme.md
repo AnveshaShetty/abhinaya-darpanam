@@ -1017,7 +1017,6 @@ This project was developed as part of the **Bachelor of Engineering (B.E.) Final
 |# 👥 Project Team
 
 - Pratham Pai
-- Ved N. Pattar
 - Anvesha U. Shetty
 - Sowjanya
 
@@ -1171,7 +1170,7 @@ This project is developed for **academic and educational purposes** as part of t
 
 Copyright © 2026
 
-Permission is granted to use this project for learning, research, and academic reference with proper attribution.
+Permission is granted to use this project for learning, research and academic reference with proper attribution.
 
 ---
 
@@ -1204,7 +1203,7 @@ This application is designed to assist Bharatanatyam learners and is **not inten
 Canara Engineering College  
 Mangalore, Karnataka, India
 
-For academic queries, suggestions, or collaboration, please contact the project team through the repository issues section.
+For academic queries, suggestions or collaboration, please contact the project team through the repository issues section.
 
 ---
 
